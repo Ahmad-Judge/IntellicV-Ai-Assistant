@@ -4,7 +4,7 @@ import { Pencil, X, Save, User, GraduationCap, Briefcase, Award, Loader } from "
 import { Download, Type, Mail, Phone, MapPin, Linkedin } from 'lucide-react';
 import { useReactToPrint } from 'react-to-print';
 import TemplateSelector from './templateSelector';
-import ClassicTemplate from './classicTemplate';
+import ClassicTemplate from './ClassicTemplate';
 import ModernTemplate from './ModernTemplate';
 import CreativeTemplate from './CreativeTemplate';
 import QuickEditOptions from './quickEditOptions'; 
